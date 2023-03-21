@@ -1,0 +1,13 @@
+:root {
+    --rs-color-primary-light-theme: #28B8A0;
+    --rs-color-primary-dim-light-theme: #53C6B3;
+    --rs-color-primary-fog-light-theme: #D4F1EC;
+    --rs-color-primary-t-dim-light-theme: rgba(40,184,160,0.8);
+    --rs-color-primary-t-fog-light-theme: rgba(40,184,160,0.2);
+
+    --rs-color-primary-dark-theme: #1FBBA1;
+    --rs-color-primary-dim-dark-theme: #1E9B86;
+    --rs-color-primary-fog-dark-theme: #1A3937;
+    --rs-color-primary-t-dim-dark-theme: rgba(31,187,161,0.8);
+    --rs-color-primary-t-fog-dark-theme: rgba(31,187,161,0.2);
+}
